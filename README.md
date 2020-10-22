@@ -11,15 +11,11 @@ Simple application made using Swing for creating customers' orders
 Project made for the subject Human Computer Interaction on the Universitat de Valencia during my Erasmus+ exchange. The project was made to get familiar with Swing components.
 
 ## Screenshots
-:-------------------------------------:|:-------------------------------------:
+--- | --- 
 ![Screenshot1](./img/screenshot1.png)  |  ![Screenshot2](./img/screenshot2.png)
-:-------------------------------------:|:-------------------------------------:
 ![Screenshot3](./img/screenshot3.png)  |  ![Screenshot4](./img/screenshot4.png)
-:-------------------------------------:|:-------------------------------------:
 ![Screenshot5](./img/screenshot5.png)  |  ![Screenshot6](./img/screenshot6.png)
-:-------------------------------------:|:-------------------------------------:
 ![Screenshot7](./img/screenshot7.png)  | 
-:-------------------------------------:|:-------------------------------------:
 ![Screenshot8](./img/screenshot8.png)  |  ![Screenshot9](./img/screenshot9.png)
 
 ## Technologies
