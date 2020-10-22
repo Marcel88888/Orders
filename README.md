@@ -15,6 +15,22 @@ Project made for the subject Human Computer Interaction on the Universitat de Va
   <img src="./img/screenshot1.png" />
   <img src="./img/screenshot2.png" /> 
 </p>
+<p float="left">
+  <img src="./img/screenshot3.png" />
+  <img src="./img/screenshot4.png" /> 
+</p>
+<p float="left">
+  <img src="./img/screenshot5.png" />
+  <img src="./img/screenshot6.png" /> 
+</p>
+<p float="left">
+  <img src="./img/screenshot7.png" />
+</p>
+<p float="left">
+  <img src="./img/screenshot8.png" />
+  <img src="./img/screenshot9.png" /> 
+</p>
+
 
 ## Technologies
 * Java - version 13.0.1
