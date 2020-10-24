@@ -1,4 +1,4 @@
-package shoppingcart;
+package orders;
 
         
 public class Product {

@@ -1,4 +1,4 @@
-package shoppingcart;
+package orders;
 
 import java.util.HashSet;
 import javax.swing.JOptionPane;
